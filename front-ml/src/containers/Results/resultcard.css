@@ -1,0 +1,7 @@
+.result-card-mercadolibre {
+    border-bottom: solid 1px #EEEEEE;
+    width: 80% ;
+    background-color: white;
+    display: flex;
+    padding: 16px 0px 16px 0px;
+}
